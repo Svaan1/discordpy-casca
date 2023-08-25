@@ -1,6 +1,6 @@
 # Casca
 ### A simple cog structured discord bot
-Casca is a simple slash command bot made using the discordpy lib, i made it for fun so it's pretty much useless, though logic can be applied and it can be used for something
+Casca is a simple slash command bot made using discordpy, i made it for fun so it's pretty much useless, though logic could be applied and be somehow useful
 
 ### Deploying 
 1. Set all the necessary environment variables:
